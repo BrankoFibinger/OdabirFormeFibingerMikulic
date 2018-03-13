@@ -1,0 +1,11 @@
+C:\Users\Učenik\source\repos\FibingerMikulicOdabirForme\FibingerMikulicOdabirForme\bin\Debug\FibingerMikulicOdabirForme.exe.config
+C:\Users\Učenik\source\repos\FibingerMikulicOdabirForme\FibingerMikulicOdabirForme\bin\Debug\FibingerMikulicOdabirForme.exe
+C:\Users\Učenik\source\repos\FibingerMikulicOdabirForme\FibingerMikulicOdabirForme\bin\Debug\FibingerMikulicOdabirForme.pdb
+C:\Users\Učenik\source\repos\FibingerMikulicOdabirForme\FibingerMikulicOdabirForme\obj\Debug\FibingerMikulicOdabirForme.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\source\repos\FibingerMikulicOdabirForme\FibingerMikulicOdabirForme\obj\Debug\FibingerMikulicOdabirForme.Form1.resources
+C:\Users\Učenik\source\repos\FibingerMikulicOdabirForme\FibingerMikulicOdabirForme\obj\Debug\FibingerMikulicOdabirForme.Form2.resources
+C:\Users\Učenik\source\repos\FibingerMikulicOdabirForme\FibingerMikulicOdabirForme\obj\Debug\FibingerMikulicOdabirForme.Properties.Resources.resources
+C:\Users\Učenik\source\repos\FibingerMikulicOdabirForme\FibingerMikulicOdabirForme\obj\Debug\FibingerMikulicOdabirForme.csproj.GenerateResource.Cache
+C:\Users\Učenik\source\repos\FibingerMikulicOdabirForme\FibingerMikulicOdabirForme\obj\Debug\FibingerMikulicOdabirForme.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\FibingerMikulicOdabirForme\FibingerMikulicOdabirForme\obj\Debug\FibingerMikulicOdabirForme.exe
+C:\Users\Učenik\source\repos\FibingerMikulicOdabirForme\FibingerMikulicOdabirForme\obj\Debug\FibingerMikulicOdabirForme.pdb
